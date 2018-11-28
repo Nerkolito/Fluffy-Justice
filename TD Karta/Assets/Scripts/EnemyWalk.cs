@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyWalk : MonoBehaviour
 {
-    // TEST
+    
     public float speed;
     private Transform target;
     private int wavePointIndex = 0;
